@@ -27,9 +27,9 @@ Think of this as your Mega Pack for offensive security and productivity.
 Clone and run in one line:
 
 git clone https://github.com/Kydras8/kali-mega-install.git ~/kali-mega-install \
-&& cd ~/kali-mega-install \
-&& chmod +x install.sh \
-&& ./install.sh
+cd ~/kali-mega-install \
+chmod +x install.sh \
+./install.sh
 
 
 ✔️ This script will:
